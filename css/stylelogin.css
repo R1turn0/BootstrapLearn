@@ -1,0 +1,52 @@
+body {
+    background-image: url("../image/Logo.png");
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+}
+
+#login2{
+    padding: 160px 0;
+}
+
+#login2 .lower input{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#login2 .lower h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#login2 .innertext{
+    position: absolute;
+    bottom: 24px;
+    left: 24px;
+}
+
+#login2 .lower i{
+    margin-bottom: 6px;
+}
+
+#login2 .outer{
+    background: white;
+    box-shadow:  0 0 8px 0 rgba(0, 0, 0, 0.08);
+}
+
+#login2 .lower{
+    padding: 6px 20px 20px 20px;
+}
+
+#login2 a{
+    color: black;
+}
+
+#login2 a:hover{
+    text-decoration: none;
+}
